@@ -1,5 +1,6 @@
 # 💫 About Me:
-## 🌟 About Me<br><br>Hi there 👋  <br>I'm **Koushani**, a passionate developer and tech enthusiast   <br><br>- 🎓 Currently a student exploring **AI, Machine Learning & Web Development**  <br>- 🤖 Interested in building **LLMs, RAG-based apps, and chatbots**  <br>- 📊 Love working with **Python, Pandas, NumPy, and Matplotlib**  <br>- 🌱 Currently learning **implementation of RAG systems**  <br>- 💡 I enjoy turning ideas into real-world projects  <br>- 🎯 Goal: Become a skilled **AI Engineer / Software Developer**  <br><br>---<br><br>## 🚀 Tech Stack<br><br>- 💻 **Languages:** Python, Java (DSA), C, JavaScript  <br>- 📚 **Libraries:** Pandas, NumPy, Matplotlib  <br>- 🗄️ **Database:** MySQL  <br>- 🌐 **Web:** HTML, CSS  <br>- ⚙️ **Tools:** Git, GitHub  <br><br>---<br><br>## ⚡ Fun Fact<br><br>I love solving problems and debugging code… even if it takes hours 😄
+## 🌟 About Me<br><br>Hi there 👋  <br>I'm **Koushani**, a passionate developer and tech enthusiast   <br>- 🤖 Interested in building **LLMs, RAG-based apps, and chatbots**  <br>- 📊 Love working with **Python, Pandas, NumPy, and Matplotlib**   <br>- 💡 I enjoy turning ideas into real-world projects  <br>- 🎯 Goal: Become a skilled **AI Engineer / Software Developer**  <br><br>---<br><br>## 🚀 Tech Stack<br><br>- 💻 **Languages:** Python, Java (DSA), C, JavaScript  <br>- 📚 **Libraries:** Pandas, NumPy, Matplotlib  <br>- 🗄️ **Database:** MySQL  <br>- 🌐 **Web:** HTML, CSS  <br>- ⚙️ **Tools:** Git, GitHub  <br><br>---<br><br>## 
+
 
 
 ## 🌐 Socials:
